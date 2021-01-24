@@ -1,0 +1,31 @@
+from enum import Enum
+from enum import auto
+
+
+class MessageTypeEnum(Enum):
+    HELLO = auto()
+    HELLO_REPLY = auto()
+    RECONNECT = auto()
+    CONNECTION_ERROR = auto()
+    GAME_STARTED = auto()
+    REQUEST_ITEM_CHOICE = auto()
+    ITEM_CHOICE = auto()
+    REQUEST_EQUIPMENT_CHOICE = auto()
+    EQUIPMENT_CHOICE = auto()
+    GAME_STATUS = auto()
+    REQUEST_GAME_OPERATION = auto()
+    GAME_OPERATION = auto()
+    SPECTATOR_REVEAL = auto()
+    STATISTICS = auto()
+    GAME_LEAVE = auto()
+    GAME_LEFT = auto()
+    REQUEST_GAME_PAUSE = auto()
+    GAME_PAUSE = auto()
+    REQUEST_CONFIG_DELIVERY = auto()
+    CONFIG_DELIVERY = auto()
+    STRIKE = auto()
+    REQUEST_REPLAY = auto()
+    REPLAY = auto()
+    ERROR = auto()
+    META_INFORMATION = auto()
+    REQUEST_META_INFORMATION = auto()

@@ -1,0 +1,6 @@
+aenum==2.2.3
+enum34==1.1.10
+jsonobject==0.9.9
+numpy==1.19.0
+six==1.14.0
+websocket-client==0.57.0

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "James Bond",
+    "description": "Der bekannte Agent 007.",
+    "gender": "MALE",
+    "features": [
+
+    ]
+  },
+  {
+    "name": "M",
+    "description": "Höchste Autorität des MI6.",
+    "gender": "FEMALE",
+    "features": [
+
+    ]
+  },
+  {
+    "name": "Q",
+    "description": "IT Spezialist des MI6.",
+    "gender": "MALE",
+    "features": [
+
+    ]
+  }
+]

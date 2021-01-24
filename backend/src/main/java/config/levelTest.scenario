@@ -1,0 +1,16 @@
+{
+  "scenario": [
+    ["WALL", "WALL", "WALL", "WALL", "WALL"],
+    ["WALL", "FIREPLACE", "WALL", "BAR_TABLE", "WALL"],
+    ["WALL", "FREE", "FREE", "FREE", "WALL"],
+    ["WALL", "BAR_TABLE", "FREE", "ROULETTE_TABLE",  "WALL"],
+    ["WALL", "BAR_SEAT", "FREE", "WALL", "WALL"],
+    ["WALL", "FREE", "FREE", "FREE", "WALL"],
+    ["WALL", "FIREPLACE", "WALL", "BAR_TABLE", "WALL"],
+    ["WALL", "FREE", "FREE", "FREE", "WALL"],
+    ["WALL", "BAR_TABLE", "FREE", "ROULETTE_TABLE", "WALL"],
+    ["WALL", "BAR_SEAT", "FREE", "WALL", "WALL"],
+    ["WALL", "FREE", "FREE", "FREE",  "WALL"],
+    ["WALL", "WALL", "WALL", "WALL", "WALL"]
+  ]
+}

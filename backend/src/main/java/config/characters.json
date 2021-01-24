@@ -1,0 +1,129 @@
+[
+  {
+    "name": "James Bond",
+    "description": "Der bekannte Agent 007.",
+    "gender": "MALE",
+    "features": [
+      "BABYSITTER",
+      "AGILITY"
+    ]
+  },
+  {
+    "name": "Mos",
+    "description": "Höchste Autorität des MI6.",
+    "gender": "FEMALE",
+    "features": [
+      "CLAMMY_CLOTHES",
+      "BANG_AND_BURN"
+    ]
+  },
+  {
+    "name": "Qua",
+    "description": "IT Spezialist des MI6.",
+    "gender": "MALE",
+    "features": [
+      "CONSTANT_CLAMMY_CLOTHES",
+      "FLAPS_AND_SEALS"
+    ]
+  },
+  {
+    "name": "Miss Moneypenny",
+    "description": "Treue Untergebene von 007.",
+    "gender": "FEMALE",
+    "features": [
+      "HONEY_TRAP",
+      "JINX"
+    ]
+  },
+  {
+    "name": "Bill Tanner",
+    "description": "Random Dude.",
+    "gender": "MALE",
+    "features": [
+      "NIMBLENESS",
+      "LUCKY_DEVIL"
+    ]
+  },
+  {
+    "name": "Sir Frederick Gray",
+    "description": "Verteidigungsminister des vereinigten Königreichs.",
+    "gender": "MALE",
+    "features": [
+      "NIMBLENESS",
+      "LUCKY_DEVIL"
+    ]
+  },
+  {
+    "name": "General Gogol",
+    "description": "KGB Agent.",
+    "gender": "MALE",
+    "features": [
+      "OBSERVATION",
+      "ROBUST_STOMACH"
+    ]
+  },
+  {
+    "name": "General Pushkin",
+    "description": "KGB Agent.",
+    "gender": "MALE",
+    "features": [
+      "SLUGGISHNESS",
+      "SPRYNESS"
+    ]
+  },
+  {
+    "name": "General Koskov",
+    "description": "KGB Agent.",
+    "gender": "MALE",
+    "features": [
+      "TOUGHNESS",
+      "TRADECRAFT"
+    ]
+  },
+  {
+    "name": "General Orlov",
+    "description": "KGB Agent.",
+    "gender": "MALE",
+    "features": [
+      "BABYSITTER"
+    ]
+  },
+  {
+    "name": "Max Zorin",
+    "description": "KGB Agent.",
+    "gender": "MALE",
+    "features": [
+      "HONEY_TRAP",
+      "TOUGHNESS",
+      "ROBUST_STOMACH"
+    ]
+  },
+  {
+    "name": "Rosa Klebb",
+    "description": "KGB Agent.",
+    "gender": "FEMALE",
+    "features": [
+      "HONEY_TRAP",
+      "TOUGHNESS",
+      "ROBUST_STOMACH"
+    ]
+  },
+  {
+    "name": "Anya Amasova",
+    "description": "KGB Agent.",
+    "gender": "FEMALE",
+    "features": [
+      "BABYSITTER",
+      "AGILITY"
+    ]
+  },
+  {
+    "name": "Viktor Zokas",
+    "description": "KGB Agent.",
+    "gender": "MALE",
+    "features": [
+      "OBSERVATION",
+      "ROBUST_STOMACH"
+    ]
+  }
+]

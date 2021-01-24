@@ -1,0 +1,31 @@
+package com.sopra.ntts.model;
+
+/**
+ * This Enum represents the different states that a field on a board can have.
+ *
+ * @author Christian Wendlinger
+ */
+public enum GameScreenFieldStateEnum {
+    BAR_TABLE,
+    BAR_TABLE_COCKTAIL,
+    ROULETTE_TABLE,
+    WALL,
+    FREE,
+    BAR_SEAT,
+    SAFE,
+    SAFEOPENED,
+    FIREPLACE,
+    FOGGY,
+    PLAYERSELECTEDFREEFRIEND,
+    PLAYERSELECTEDFREEFOE,
+    PLAYERSELECTEDFREE,
+    PLAYERSELECTEDBARTABLE,
+    PLAYERSELECTEDROULETTETABLE,
+    PLAYERSELECTEDWALL,
+    PLAYERSELECTEDBARSEAT,
+    PLAYERSELECTEDBARSEATFRIEND,
+    PLAYERSELECTEDBARSEATFOE,
+    PLAYERSELECTEDSAFE,
+    PLAYERSELECTEDSAFEOPENED,
+    PLAYERSELCETEDFIREPLACE
+}
